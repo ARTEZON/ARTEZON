@@ -1,4 +1,4 @@
-**Hi there 👋 I'm Artyom.**
+**Hi there 👋 I'm Artyom**
 ##
 🎓 1st year student :)
 
