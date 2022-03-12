@@ -9,7 +9,9 @@
 👨‍💻 Languages: Python, C++
 
 📙 Will learn: Java, C#, JavaScript (and others)
-##
+## Contacts
+Website: _not yet_
+
 Steam: https://steamcommunity.com/id/artez0n
 
 VK: https://vk.com/artez0n
