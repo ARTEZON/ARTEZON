@@ -8,7 +8,7 @@
 ##
 👨‍💻 Languages: Python, C++
 
-📙 Will learn: Java, C#, JavaScript (and others)
+📙 Will learn: Java, C#, JavaScript (and some others)
 ## Contacts
 Website: _not yet_
 
