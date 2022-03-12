@@ -4,7 +4,7 @@
 
 😄 I like programming and graphic design.
 
-⚡ I also like mathemathics, fun videos, cats, videogames, anime, various kinds of music
+⚡ I also like mathemathics, fun videos, cats, video games, anime, various kinds of music
 ##
 👨‍💻 Languages: Python, C++
 
