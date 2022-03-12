@@ -2,9 +2,9 @@
 ##
 🎓 1st year student :)
 
-😄 I like programming and graphic design.
+😄 I'm interested in programming and graphics design.
 
-⚡ I also like mathemathics, youtube videos, memes, cats, video games, anime, various kinds of music
+⚡ I also like mathemathics, youtube videos, memes, cats, video games, anime, movies, various kinds of music
 ##
 👨‍💻 Languages: Python, C++
 
