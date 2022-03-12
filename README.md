@@ -1,13 +1,17 @@
 Hi there 👋 I'm Artyom.
-
+##
 🎓 1st year student :)
+
 😄 I like programming and graphic design.
+
 ⚡ I also like mathemathics, fun videos, cats, videogames, anime, various kinds of music
-
+##
 👨‍💻 Languages: Python, C++
-🐱‍💻 Will learn: Java, C#, JavaScript (and others)
 
+📙 Will learn: Java, C#, JavaScript (and others)
+##
 Steam: https://steamcommunity.com/id/artez0n
+
 VK: https://vk.com/artez0n
 
 <!--
