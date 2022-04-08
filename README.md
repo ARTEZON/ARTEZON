@@ -2,13 +2,11 @@
 ##
 🎓 1st year student :)
 
-😄 I'm interested in programming and graphics design.
-
-⚡ I also like mathemathics, youtube videos, memes, cats, video games, anime, movies, various kinds of music
+⚡ I'm interested in programming and graphics design.
 ##
-👨‍💻 Languages: Python, C++
+👨‍💻 Languages: C++, Python
 
-📙 Will learn: Java, C#, JavaScript (and some others)
+📙 Want to learn: Web Development, Game Development and Neural Networks
 ## Contacts
 Website: _not yet_
 
