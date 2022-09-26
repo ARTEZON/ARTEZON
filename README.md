@@ -1,12 +1,12 @@
 **Hi there 👋 I'm Artyom**
 ##
-🎓 1st year student :)
+🎓 2nd year student :)
 
-⚡ I'm interested in programming and graphics design.
+⚡ I'm interested in programming and graphic design.
 ##
-👨‍💻 My programming skills: C++, Python, PyQt
+👨‍💻 My programming skills: C++, C#, Python, PyQt
 
-💻 Others: Adobe Photoshop, Premiere Pro, After Effects, HTML, Linux (a bit)
+💻 Others: Adobe Photoshop, Premiere Pro, After Effects, AutoCAD, HTML, Linux (a bit)
 
 📙 Want to learn: Web Development, Game Development and Neural Networks
 ## Contacts
