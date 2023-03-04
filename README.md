@@ -2,13 +2,13 @@
 ##
 🎓 2nd year student :)
 
-⚡ I'm interested in programming and graphic design.
+⚡ I like programming and web design.
 ##
-👨‍💻 My programming skills: C++, C#, Python, PyQt
+👨‍💻 My programming skills: C++, C#, WinForms, Python, PyQt, HTML, CSS, JS.
 
-💻 Others: Adobe Photoshop, Premiere Pro, After Effects, AutoCAD, HTML, Linux (a bit)
+💻 Other: Adobe Photoshop, Premiere Pro, After Effects, AutoCAD, Linux, etc.
 
-📙 Want to learn: Web Development, Game Development and Neural Networks
+📙 Want to learn: Web Development, Game Development and Neural Networks.
 ## Contacts
 Website: _not yet_
 
