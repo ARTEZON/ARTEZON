@@ -1,16 +1,19 @@
 **Hi there 👋 I'm Artyom**
 ##
-🎓 2nd year student :)
+🎓 I'm a CS student at the Kuban State University :)
 
-⚡ I like programming and web design.
+⚡ Interested in coding, AI, web design, gaming, music, anime/manga.
+
+😸 Cats are my favorite animals :D
+
 ##
-👨‍💻 My programming skills: C++, C#, WinForms, Python, PyQt, HTML, CSS, JS.
+👨‍💻 Programming skills: C++, C#, WinForms, Python, PyQt, HTML, CSS, JS.
 
-💻 Other: Adobe Photoshop, Premiere Pro, After Effects, AutoCAD, Linux, etc.
+💻 Other: Adobe Photoshop, Premiere Pro, After Effects, AutoCAD, Linux, Google Colab, etc.
 
-📙 Want to learn: Web Development, Game Development and Neural Networks.
+📙 Learning / will learn: Node.js, Flutter, OpenGL, AI stuff (e.g., pytorch).
 ## Contacts
-Website: _not yet_
+Website: _soon_
 
 Steam: https://steamcommunity.com/id/artez0n
 
