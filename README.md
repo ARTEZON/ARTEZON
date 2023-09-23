@@ -4,7 +4,7 @@
 
 ⚡ Interested in coding, AI, web design, gaming, music, anime/manga.
 
-😸 Cats are my favorite animals :D
+😸 Cats are my favorite animals :3
 
 ##
 👨‍💻 Programming skills: C++, C#, WinForms, Python, PyQt, HTML, CSS, JS.
